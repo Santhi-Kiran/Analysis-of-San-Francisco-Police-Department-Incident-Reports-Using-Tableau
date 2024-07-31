@@ -1,0 +1,2 @@
+# Analysis-of-San-Francisco-Police-Department-Incident-Reports-Using-Tableau
+This project analyzes incident reports from the San Francisco Police Department dataset, focusing on trends in crime incidents across neighborhoods, police districts, and over time. Various visualizations using Tableau are employed to explore patterns in incident types, timing, geographic distribution, and resolution statuses.
